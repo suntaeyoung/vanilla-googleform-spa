@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html",
+      "has": [{ "type": "host", "value": "vercel.app" }]
+    }
+  ]
+}
