@@ -1,15 +1,12 @@
 {
-  "name": "hash-router",
+  "name": "googleform-spa",
   "version": "1.0.0",
-  "description": "",
+  "description": "- form input 은 required input 을 하나 이상 포함.     - required input 을 입력하지 않을시 제출이 불가. - 완료 페이지에서 form input 결과를 UI 에 노출.",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel ./index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "parcel": "^2.11.0"
-  }
+  "license": "ISC"
 }
