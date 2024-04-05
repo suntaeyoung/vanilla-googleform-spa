@@ -1,7 +1,7 @@
 # Google form 웹앱
 
 ## 소개
-Vanilla js로 구현한 Google form 웹앱입니다.
+Vanilla js로 구현한Google form 웹앱입니다.
 라우터를 직접 구현하여 React의 SPA처럼 만들었습니다.
 사용자의 여러가지 입력을 받아 데이터를 전달할 수 있습니다.
 
