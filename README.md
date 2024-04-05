@@ -1,14 +1,16 @@
-[링크 텍스트](https://vanilla-googleform-spa.vercel.app/)
+# Google form 웹앱
 
-# 요구사항
+## 소개
+Vanilla js로 구현한 Google form 웹앱입니다.
+라우터를 직접 구현하여 React의 SPA처럼 만들었습니다.
+사용자의 여러가지 입력을 받아 데이터를 전달할 수 있습니다.
 
-- form input 은 required input 을 하나 이상 포함.
-    - required input 을 입력하지 않을시 제출이 불가.
-- 완료 페이지에서 form input 결과를 UI 에 노출.
 
+## 기능
+- 입력들을 초기화 할 수 있습니다
+- 브라우저 새로고침시에도 선택값들이 유지됩니다.
+- 입력들을 선택하지 않으면 다음,이전화면으로 갈 수 없습니다.
+- 제출하기를 누르면 지금까지 선택한 값들을 한곳에서 볼 수 있습니다.
 
-### 도전 과제
-
-- 양식 지우기 기능
-- 불러오기 기능
-    - 새로고침시 기존 데이터를 불러오기
+## 실행 주소
+Google form 웹앱은 다음 주소에서 실행할 수 있습니다: [Google form 웹앱 실행 주소](https://vanilla-googleform-spa.vercel.app)
