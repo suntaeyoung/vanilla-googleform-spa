@@ -13,4 +13,4 @@ Vanilla js로 구현한Google form 웹앱입니다.
 - 제출하기를 누르면 지금까지 선택한 값들을 한곳에서 볼 수 있습니다.
 
 ## 실행 주소
-Google form 웹앱은 다음 주소에서 실행할 수 있습니다: [Google form 웹앱 실행 주소](https://vanilla-googleform-spa.vercel.app)
+Google form 웹앱은 다음 주소에서 실행할 수 있습니다: [Google form 웹앱 실행 주소](https://vanilla-googleform-spa.netlify.app/)
